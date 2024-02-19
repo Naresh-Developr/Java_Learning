@@ -1,0 +1,10 @@
+Java - Developr:
+
+java--> programming language --> owned by oracle,--> need Java Development kit to run in the system.
+
+java --> supports oops and high level language.
+
+java --> completly oops oriented cause it does not work without oops
+
+Java was originally developed by James Gosling at Sun Microsystems and launched in 1995.
+
