@@ -6,6 +6,7 @@ public class inputs1 {
         Scanner sc = new Scanner(System.in);
         String data = sc.nextLine();
         System.out.println("Your name was : "+ data);
+        sc.close();
 
     }
     

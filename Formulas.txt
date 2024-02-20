@@ -1,0 +1,31 @@
+1. 1 mile =  1.609km
+2. celcius = (farenheit-32)*5/9
+3. Area of circle = pi*r*r   // r---> radius
+4. perimeter of circle = 2*pi*radius
+5. area of sphere = 4*pi*radius
+6. volume of sphere = 4/3*pi*radius*radius
+7. percentage formula =  percentage/100 * toatl amount
+8. area of cylinder = 2*pi*r*r + 2*pi*r
+9. volume of cylinder = pi*r*r*h
+10. speed = distance/time   // distance = distance*1000;--> to convert into meter
+    speed = speed*1000/3600  --> km/hr  --> metre/second
+
+formula to convert seconds to hours and mitues and seconds
+
+total time[in seconds]/3600 --> to get hours from seconds // divide the remaining from this 
+by 60 to get minutes and reaming are seconds.
+11. compund interest = invested amount * (1+rate of interest)power[^]no.of.years 
+12. right angled triangle = hypotunes square = square of sum of other two sides.
+
+formula to check for valid triangle:
+
+it must satisfies the below three conditions:
+a+b>c
+a+b>b
+b+c>a
+all must be true to make it as a triangle.
+
+heron formula to check if it makes a triangle.
+perimeter = a+b+c
+s = 1/2*perimeter
+area = squareroot_of(s(s-a)(s-b)(s-c)).
