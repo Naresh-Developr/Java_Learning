@@ -1,0 +1,64 @@
+Java Intro:
+    Initially was called as oak.
+
+    In java the java program compiled was converted into bytecode
+
+    Byte code is a cross platform and ends with .class
+
+    Byte code can be used in all platform like linux mac and pc's,
+
+    The java virtual machine converts the byte code to machine code[object code]
+
+    jvm is pre included in jdk.
+
+
+Data Types:
+
+Primitive && reference data Types
+
+1. string is a reference data Type
+2. reference data types are unlimited [because user defined]
+3. reference always stores the address
+4. reference can hold more than one value
+5. reference has more memory
+6. reference are slower.
+
+//primitive:
+
+only 8 types of primitive data 
+stores data
+can hold 1 value
+less memory needed
+fast.
+
+
+//Wrapper classes in java.
+
+wrapper classes used to use primitive data types as reference data types.
+
+primitive       Wrapper
+
+1. int          Integer
+2. boolean      boolean
+3. double       Double
+4. char         Character
+
+
+consider the above , you now understant that string is a wrapper class[reference data type],thats y it starts with Capital S
+
+reference data types can be used with collections [ArrayList]
+
+each primitive data type has its own wrapper class
+
+Autoboxing:
+
+    it is the automatic conversion that java compiler makes between primitive types 
+and their corrosponding objects wrapper class.
+
+
+unboxing:
+
+    the reverse of Autoboxing, the automatic conversion of object wrapper class int primitive data types.
+
+
+

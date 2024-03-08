@@ -29,3 +29,7 @@ heron formula to check if it makes a triangle.
 perimeter = a+b+c
 s = 1/2*perimeter
 area = squareroot_of(s(s-a)(s-b)(s-c)).
+
+perfect square:
+
+    it nothing but the square root of the value is equal to before and after rounded off.
