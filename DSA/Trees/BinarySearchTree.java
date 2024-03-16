@@ -1,4 +1,4 @@
-package DSA.BinaryTrees;
+package DSA.Trees;
 class BinarySearchTree {
 
     public class Node{
